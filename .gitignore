@@ -1,0 +1,8 @@
+# Archivos ignorados individualmente
+privado.md
+
+# Archivos ignorados general
+*.md
+
+# carpetas ignoradas
+/privados
